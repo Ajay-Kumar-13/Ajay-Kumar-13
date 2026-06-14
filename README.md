@@ -1,7 +1,7 @@
 # Hi, I'm Ajay Kumar 👋
 
 **Software Developer | Full Stack Engineer**  
-📍 Chennai, India &nbsp;|&nbsp; 💼 Tata Consultancy Services &nbsp;|&nbsp; 🎯 Targeting Microsoft
+📍 Chennai, India &nbsp;|&nbsp; 💼 Tata Consultancy Services
 
 ---
 

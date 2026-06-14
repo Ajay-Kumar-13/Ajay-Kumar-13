@@ -59,7 +59,7 @@ RESTful API handling user management with Spring Boot.
 
 ## 📊 GitHub Stats
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay-Kumar-13&show_icons=true&theme=tokyonight&hide_border=true)
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajay-Kumar-13&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-Kumar-13&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
